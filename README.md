@@ -1,19 +1,11 @@
 # machine_learning-face-clustering
 
-
-![first_Image](image.png)
-![secound_Image](kmeans_clustering_hue_and_saturation.png)
-![third_Image](faceclustering_template_image.png)
-![fourth_Image](face_clusters.png)
-![fifth_Image](temaplate.png)
-
-
-<h1 align="center">Face Clustering using Distance-Based Classification</h1>
+<h1 align="center">Face Clustering using Distance Based Classification</h1>
 
 <h2>Overview</h2>
 <p>
 This project detects faces in an image and clusters them based on visual similarity using 
-K-Means clustering. Colour-based features are extracted from detected faces and grouped 
+K-Means clustering. Colourbased features are extracted from detected faces and grouped 
 using distance-based similarity measures.
 </p>
 
