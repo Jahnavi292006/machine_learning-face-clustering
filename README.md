@@ -62,16 +62,12 @@ and template classification in feature space.
 
 <h2>Visual Results</h2>
 
-<p align="center">
-  <img src="images/Plaksha_Faculty.jpg" width="300">
-  <img src="images/Plaksha_faculty_boxed.jpeg" width="300">
-</p>
-<p align="center"><em>Original Image vs Detected Faces</em></p>
+![first_Image](image.png)
+![secound_Image](kmeans_clustering_hue_and_saturation.png)
+![third_Image](faceclustering_template_image.png)
+![fourth_Image](face_clusters.png)
+![fifth_Image](temaplate.png)
 
-<p align="center">
-  <img src="images/Dr_Shashi_Tharoor.jpg" width="300" style="margin-right:20px;">
-  <img src="images/Shashi_boxed.jpeg" width="300">
-</p>
 
 <h2>Key Findings</h2>
 <ul>
