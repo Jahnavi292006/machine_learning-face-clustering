@@ -59,6 +59,9 @@ and template classification in feature space.
 ![third_Image](faceclustering_template_image.png)
 ![fourth_Image](face_clusters.png)
 ![fifth_Image](temaplate.png)
+![sixth_Image](first_image.png)
+![seven_Image](kmeans_face-cluster.png)
+
 
 
 <h2>Key Findings</h2>
